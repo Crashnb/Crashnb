@@ -5,4 +5,5 @@
   Welcome to my page ~~ 
   </div>
   ### :fire: My Stats :
-http://github-readme-streak-stats.herokuapp.com/?user=Crashnb&theme=dark&hide_border=true&stroke=DD1873)](https://git.io/streak-stats
+<div>https://github-readme-streak-stats.herokuapp.com/?user=Crashnb&theme=dark&hide_border=true&stroke=DD1873)](https://git.io/streak-stats)
+</div>
