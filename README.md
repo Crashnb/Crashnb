@@ -4,6 +4,4 @@
 <div id = "header" align = center>
   Welcome to my page ~~ 
   </div>
-  ### :fire: My Stats :
-<div>https://github-readme-streak-stats.herokuapp.com/?user=Crashnb&theme=dark&hide_border=true&stroke=DD1873)](https://git.io/streak-stats)
-</div>
+  ### :fire: :fire: :fire: 
