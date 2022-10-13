@@ -39,3 +39,6 @@
 ### Stats: :mag_right:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crashnb)](https://github.com/anuraghazra/github-readme-stats)
+<div align = center>
+<img src = "https://giphy.com/clips/demon-slayer-giyuu-tomioka-dead-calm-g9lvfhzE8XbDSi4yhY" title = "dead calm">
+</div>
