@@ -44,5 +44,5 @@
  ---
   
   ###
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/g9lvfhzE8XbDSi4yhY/video" width="480"></iframe></div>
+<div><img src = "https://giphy.com/clips/demon-slayer-giyuu-tomioka-dead-calm-g9lvfhzE8XbDSi4yhY"</div>
 </div>
