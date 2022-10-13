@@ -2,7 +2,7 @@
 <img src = "https://media3.giphy.com/media/10TZs8ho7qJeVy/giphy.gif?cid=ecf05e47skmzcjei0bmexi3lcybw2sxerrptt9mtuyakpi01&rid=giphy.gif&ct=g">
 </div>
 <div id = "header" align = center>
-  <div color = cyan> ~~Welcome to my page ~~ </div>
+  <div text_color = cyan> ~~Welcome to my page ~~ </div>
   <a href = "https://www.linkedin.com/in/david-tan-717102154/">
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="css3" alt="Css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tw" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" bg_color = white title="tailwind" alt="tw" width="40" height="40"/>&nbsp;
 </div>
 <div>
   <div> learning projects: </div>
