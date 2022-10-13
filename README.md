@@ -3,5 +3,8 @@
 </div>
 <div id = "header" align = center>
   Welcome to my page ~~ 
+  <a href = "https://www.linkedin.com/in/david-tan-717102154/">
+  <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
   </div>
   ### :fire: :fire: :fire: 
