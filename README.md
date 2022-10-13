@@ -1,5 +1,5 @@
 <div id = "fireplace" align = center>
-<img src = "https://media3.giphy.com/media/10TZs8ho7qJeVy/giphy.gif?cid=ecf05e47skmzcjei0bmexi3lcybw2sxerrptt9mtuyakpi01&rid=giphy.gif&ct=g">
+<img src = "https://media2.giphy.com/media/f7k6TfAFkiAqKVcJGH/giphy.gif?cid=ecf05e47w0dioy7ff4zj4b129qhbwe6m45c24vcxigyokapd&rid=giphy.gif&ct=g">
 </div>
 <div id = "header" align = center>
   <div text_color = cyan> ~~Welcome to my page ~~ </div>
