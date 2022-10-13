@@ -11,7 +11,7 @@
   ---
   
   ### :black_joker: About me :clubs: :diamonds:	:hearts: :spades: :singapore:
--I am an engineering intern/student with an interest in front-end 
+-I am an engineering intern/student from Singapore with an interest in front-end 
 
 -Mainly focused on creating UI :computer:	for arduino projects 
 
@@ -22,14 +22,14 @@
 ### :hammer_and_wrench: Languages :
 
 <div>
-  <div align = center> webpage design: </div>
+  <div> webpage design: </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="css3" alt="Css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tw" width="40" height="40"/>&nbsp;
 </div>
 <div>
-  <div align = center> learning projects: </div>
+  <div> learning projects: </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
 </div>
