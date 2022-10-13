@@ -33,6 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
 </div>
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+--- Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crashnb)](https://github.com/anuraghazra/github-readme-stats)
