@@ -44,5 +44,5 @@
  ---
   
   ###
-<img src="https://steamuserimages-a.akamaihd.net/ugc/767225540972755074/C4ED4FE53B3EDE1417EA409085696FA207A7D230/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/g9lvfhzE8XbDSi4yhY/video" width="480"></iframe></div>
 </div>
