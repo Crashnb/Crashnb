@@ -44,5 +44,5 @@
  ---
   
   ###
-<div><img src = "https://qph.cf2.quoracdn.net/main-qimg-502bacccadc5d17a0d52ce04c93b9174" height = "400" width = "400"></div>
+<div><img src = "https://qph.cf2.quoracdn.net/main-qimg-502bacccadc5d17a0d52ce04c93b9174" height = "480" width = "680"></div>
 </div>
