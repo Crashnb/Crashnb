@@ -10,7 +10,7 @@
   
   ---
   
-  ### :black_joker: About me :clubs: :diamonds:	:hearts: :spades: :singapore:
+  ### :black_joker: :singapore: :clubs: :diamonds:	:hearts: :spades:About me :clubs: :diamonds:	:hearts: :spades: :singapore:
 -I am an engineering intern/student from Singapore with an interest in front-end 
 
 -Mainly focused on creating UI :computer:	for arduino projects 
