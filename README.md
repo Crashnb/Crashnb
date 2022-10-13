@@ -40,5 +40,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crashnb)](https://github.com/anuraghazra/github-readme-stats)
 <div align = center>
-<div><src="https://giphy.com/embed/g9lvfhzE8XbDSi4yhY/video" width="480"></div>
+<div><img src="https://giphy.com/embed/g9lvfhzE8XbDSi4yhY/video" width="480"></div>
 </div>
