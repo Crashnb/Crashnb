@@ -44,5 +44,5 @@
  ---
   
   ###
-<div><img src = "https://media.giphy.com/media/f7k6TfAFkiAqKVcJGH/giphy.gif" height = "400" width = "400"</div>
+<div><img src = "https://media.giphy.com/media/f7k6TfAFkiAqKVcJGH/giphy.gif" height = "400" width = "400"></div>
 </div>
