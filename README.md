@@ -9,9 +9,26 @@
   </div>
   ---
   
-  ### :black_joker: About me :clubs: :diamonds:	:hearts: :spades:	
--I am
+  ### :black_joker: About me :clubs: :diamonds:	:hearts: :spades: :singapore:
+-I am an engineering intern/student with an interest in front-end 
 
--As
+-Mainly focused on creating UI :computer:	for arduino projects 
 
--asd
+-Powered by memes and vscode-pets
+
+---
+
+### :hammer_and_wrench: Languages :
+
+<div>
+  <div>webpage design: </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/css3" title="Css3" alt="Css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tw" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  <div>learning projects: </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
+</div>
